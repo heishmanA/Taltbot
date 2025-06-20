@@ -1,0 +1,124 @@
+{
+    "boss": [
+        {
+            "name": "Abomination",
+            "location": "Guard's Graveyard",
+            "closest_tp": "Guard's Graveyard",
+            "thumbnail": "https://tos.guru/assets/icons/boss_abomination.png"
+        },
+        {
+            "name": "Alluring Succubus",
+            "location": "Feretory Hills",
+            "closest_tp": "Mochia Forest",
+            "thumbnail": "https://tos.guru/assets/icons/boss_succubus.png"
+        },
+        {
+            "name": "Archon",
+            "location": "Royal Mausoleum Storage",
+            "closest_tp": "Royal Mausoleum Constructor's Chapel",
+            "thumbnail": "https://tos.guru/assets/icons/boss_archon.png"
+        },
+        {
+            "name": "Canceril",
+            "location": "Royal Mausoleum Constructor's Chapel",
+            "closest_tp": "Royal Mausoleum Constructor's Chapel",
+            "thumbnail": "https://tos.guru/assets/icons/boss_canceril.png"
+        },
+        {
+            "name": "Cerberus",
+            "location": "Mokusul Chamber",
+            "closest_tp": "GMokusul Chamber",
+            "thumbnail": "https://tos.guru/assets/icons/boss_kerberos.png"
+        },
+        {
+            "name": "Chapparition",
+            "location": "Tenet Church 1F",
+            "closest_tp": "Tenet Church 1F",
+            "thumbnail": "https://tos.guru/assets/icons/boss_chapparition.png"
+        },
+        {
+            "name": "Deathweaver",
+            "location": "Demon Prison 4",
+            "closest_tp": "Demon Prison 2",
+            "thumbnail": "https://tos.guru/assets/icons/boss_deathweaver.png"
+        },
+        {
+            "name": "Dullahan",
+            "location": "Roxana Reconstruction Agency East Building",
+            "closest_tp": "Roxana Reconstruction Agency West Building",
+            "thumbnail": "https://tos.guru/assets/icons/boss_durahan.png"
+        },
+        {
+            "name": "Ellaganos",
+            "location": "Verkti Square",
+            "closest_tp": "Ruklys Street",
+            "thumbnail": "https://tos.guru/assets/icons/boss_ellaganos.png"
+        },
+        {
+            "name": "Fire Lord",
+            "location": "Mage Tower 5F",
+            "closest_tp": "Mage Tower 5F",
+            "thumbnail": "https://tos.guru/assets/icons/boss_fireload.png"
+        },
+        {
+            "name": "Ferret Marauder",
+            "location": "Uskis Arable Land",
+            "closest_tp": "Dina Bee Farm",
+            "thumbnail": "https://tos.guru/assets/icons/boss_ferretmarauder.png"
+        },
+        {
+            "name": "Frantic Molich",
+            "location": "Tevhrin Salactite Cave Section 5",
+            "closest_tp": "Tevhrin Salactite Cave Section 1",
+            "thumbnail": "https://tos.guru/assets/icons/boss_molich.png"
+        },
+        {
+            "name": "Glackuman",
+            "location": "King's Plateau",
+            "closest_tp": "King's Plateau",
+            "thumbnail": "https://tos.guru/assets/icons/boss_glackuman.png"
+        },
+        {
+            "name": "Harpeia",
+            "location": "Nahash Forest",
+            "closest_tp": "Nahash Forest",
+            "thumbnail": "https://tos.guru/assets/icons/boss_harpeia.png"
+        },
+        {
+            "name": "Kubas",
+            "location": "Crystal Mine Lot 2 - 2F",
+            "closest_tp": "Crystal Mine 3F",
+            "thumbnail": "https://tos.guru/assets/icons/fd_boss_kubas.png"
+        },
+        {
+            "name": "Noisy Mineloader",
+            "location": "Pilgrim Path",
+            "closest_tp": "Saalus Convent",
+            "thumbnail": "https://tos.guru/assets/icons/boss_mineloader.png"
+        },
+        {
+            "name": "Necroventer",
+            "location": "Rsidence of the Fallen Legwyn Family [unconfirmed]",
+            "closest_tp": "Residence of the Fallen Legwyn Family",
+            "thumbnail": "https://tos.guru/assets/icons/boss_necrovanter.png"
+        },
+        {
+            "name": "Pizza Cutter",
+            "location": "Kalejimas Investigation Room",
+            "closest_tp": "Kalejimas Workshop",
+            "thumbnail": "https://tos.guru/assets/icons/boss_prisoncutter.png"
+        },
+        {
+            "name": "Templeshooter",
+            "location": "Royal Mausoleum Constructor's Chapel",
+            "closest_tp": "Royal Mausoleum Constructor's Chapel",
+            "thumbnail": "https://tos.guru/assets/icons/boss_templeshooter.png"
+        },
+        {
+            "name": "Velnia Monkey",
+            "location": "Tenant's Farm",
+            "closest_tp": "Tenant's Farm",
+            "thumbnail": "https://tos.guru/assets/icons/boss_velniamonkey.png"
+        }
+    ]
+}

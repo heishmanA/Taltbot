@@ -1,0 +1,10 @@
+{
+    "token": "Discord bot token",
+    "discordClientId": "Discord bot Client Id",
+    "guildId": "Discord Server/Guild id",
+    "devToken": "Developer token",
+    "devDiscordClientId": "Development Discord Client ID",
+    "developerUserIds": [
+        "Developer user id"
+    ]
+}

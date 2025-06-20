@@ -1,0 +1,30 @@
+{
+  "name": "taltbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "tslint -p tsconfig.json",
+    "clean": "del /s /q build",
+    "build": "tsc --build",
+    "start": "npm run clean && npm run format && npm run build && node build/index.js",
+    "cleanMac": "rm -r build",
+    "startMac": "npm run cleanMac && npm run format && npm run build && node build/index.js",
+    "startNotClean": "npm run build && node build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.5.0",
+    "generate": "^0.10.0",
+    "glob": "^11.0.2",
+    "lint": "^1.1.2",
+    "prettier": "^3.5.3",
+    "tslint": "^5.20.1"
+  }
+}

@@ -1,0 +1,20 @@
+build/
+backupcommands/
+node_modules/
+.DS_store
+.vscode/
+chrome/
+stats/.venv
+stats/__pycache__
+stats/*/__pycache__
+stats/data/player_data.txt
+stats/*.txt
+stats/player_data/*
+stats/data/*.txt
+stats/plots/*
+discorddb.session.sql
+## personal information
+data/config.json
+data/gatewayintents.txt
+## To be added later
+python
