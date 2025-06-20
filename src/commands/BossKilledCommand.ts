@@ -3,13 +3,10 @@ import {
   ChatInputCommandInteraction,
   EmbedBuilder,
   PermissionsBitField,
-  TextChannel,
   CacheType,
-  MessageFlags,
 } from "discord.js";
 import Command from "../base/classes/Command";
 import TaltClient from "../base/classes/TaltClient";
-import { InteractionDeferReplyOptions } from "discord.js";
 
 export default class BossKilledCommand extends Command {
   constructor(client: TaltClient) {
